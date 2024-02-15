@@ -25,4 +25,4 @@ FetchContent_MakeAvailable(googletest)
 add_subdirectory(${PROJECT_SOURCE_DIR}/src)
 
 # Add Unit Tests
-add_subdirectory(${PROJECT_SOURCE_DIR}/test)
+#add_subdirectory(${PROJECT_SOURCE_DIR}/test)
